@@ -2,7 +2,7 @@ package calculation;
 
 import java.util.Scanner;
 
-public class Calcuation_main {
+public class Calculation_main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
